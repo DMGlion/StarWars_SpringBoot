@@ -3,7 +3,6 @@ package com.example.star_wars_springboot.entities;
 import lombok.Data;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Data
 @Entity
