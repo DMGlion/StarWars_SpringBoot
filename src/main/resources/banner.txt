@@ -1,0 +1,7 @@
+ ,-.  .           ,   .                  ,-.               .           ,-.  ,-.
+(   ` |           | . |                 /   \              |           |  \ |  )
+ `-.  |-  ,-: ;-. | ) ) ,-: ;-. ,-. --- |   |  . . ,-: ;-. |-  ,-, --- |  | |-<
+.   ) |   | | |   |/|/  | | |   `-.     \   X  | | | | |   |    /      |  / |  )
+ `-'  `-' `-` '   ' '   `-` '   `-'      `-' ` `-` `-` '   `-' '-'     `-'  `-'
+
+${AnsiColor.BRIGHT_BLUE}:: jpa-spec :: Running Spring Boot ${spring-boot.version} :: Port #${server.port} :: ${AnsiColor.DEFAULT}
